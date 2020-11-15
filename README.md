@@ -45,5 +45,4 @@ Al final es sync vs async.
 
 - Uso de let para extrer una propiedad de un objeto
 
-## Callbacks
 
